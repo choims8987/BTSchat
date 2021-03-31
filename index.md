@@ -1,11 +1,9 @@
-## Welcome to GitHub Pages
-
+## WBTS 챗봇
 You can use the [editor on GitHub](https://github.com/choims8987/BTSchat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
+### BTS 챗봇 예제입니다.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
